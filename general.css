@@ -4,8 +4,4 @@ body {
   background-color: #1D2225;
   color: #CCD2DD;
   font-family: "Fira Code", serif;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
